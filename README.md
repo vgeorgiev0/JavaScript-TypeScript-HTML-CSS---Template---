@@ -1,4 +1,3 @@
-
 This is a simple template for a project using JavaScript, TypeScript, HTML, and CSS.
 
 ## Prerequisites
@@ -17,18 +16,26 @@ Make sure you have Node.js and npm installed on your machine.
 
 3. Install dependencies:
 
-   `yarn`
+   ```bash
+   yarn
+   ```
+
+````
 
 ## Commands
 
 ### Start Development Server
 
-   `yarn start`
+```bash
+yarn start
+````
 
-   This command uses `live-server` to start a development server and automatically reloads the page when changes are made.
+This command uses `live-server` to start a development server and automatically reloads the page when changes are made.
 
 ### Watch TypeScript Files
 
-   `yarn watch`
+```bash
+ yarn watch
+```
 
-   This command uses `tsc` to watch TypeScript files and automatically recompiles them when changes are detected.
+This command uses `tsc` to watch TypeScript files and automatically recompiles them when changes are detected.
