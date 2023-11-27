@@ -1,0 +1,24 @@
+body {
+  background-color: #333;
+  color: #fff;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  /* TODO DELETE THIS */
+  margin-top: 20vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  /* TODO DELETE THIS */
+}
+
+header { 
+  margin-bottom: 10vh;
+}
+
+code {
+  font-size: 18px;
+  color: green;
+  background-color: black;
+  border-radius: 10px;
+  padding: 1px 10px;
+}
